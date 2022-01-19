@@ -1,0 +1,137 @@
+body{
+    background-color: lightpink;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', 'sans-serif';
+}   
+
+/* Hero Section Design */
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color:deeppink;
+    margin-top: 11%;
+
+}
+
+h3{
+    font-weight: normal;
+    font-size: 30px;
+    margin-top: -4%;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 400px;
+    right: 450px;
+    width:200px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 120px;
+    width:200px; 
+
+}
+
+.birds{
+    position: absolute;
+    top: 500px;
+    left:1000px;
+    width:500px; 
+    height: 250px;
+}
+
+.sun{
+    position: absolute;
+    top: 410px;
+    left:550px;
+    width: 150px;
+    height: 150px; 
+}
+
+.mountain{
+    margin-bottom: -1px;
+}
+
+/* Profile Section Design */
+
+.profile-img{
+    width: 180px;
+    height: 180px; 
+    margin-top: 5%;
+}
+
+/* Skills Section Design */
+
+.skills{
+    margin-top: 8%;
+}
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin-bottom: 100px;
+    margin-left: 30%;
+    margin-top: 8%;
+}
+
+.skills-img{
+    width: 30%; 
+}
+
+.skill-1{
+    float: left;
+    margin-right: 10%;
+}
+
+.skill-2{
+    float: right;
+}
+
+
+/* Contact Section Design */
+.contact-me{  
+    padding: 5% 0;
+}
+
+.button{
+    text-decoration: none;
+    background:deeppink;
+    padding: 20px 30px;
+    color: white;
+}
+
+.button:hover{
+    background:deeppink;
+}
+
+h2{
+    color: deeppink;
+    font-size: 40px;
+}
+
+.contact-text{
+    margin-bottom: 3%;
+}
+
+.contact-subtitle{
+    font-size: 20px;
+}
+
+/* Footer Section Design */
+
+.footer{
+    padding: 3% 0;
+    background-color:deeppink;
+    color: white;
+}
+
+.footer-icon{
+    color: white;
+}
+
+.footer-icon:hover{
+    color:deeppink;
+}
